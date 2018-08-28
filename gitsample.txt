@@ -1,3 +1,4 @@
 Hello GIT
 testing purpose
 doing changes from Vamsi branch
+doing changes from master branch for ticket#1234
